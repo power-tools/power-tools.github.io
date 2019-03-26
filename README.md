@@ -17,6 +17,6 @@ I'm glad you asked.  XrmToolbox is a legend in the Dynamics 365 Community and co
 
 ## Getting Started
 
-Head on over to <https://github.com/power-tools/hub.>  This repository hosts the source code for PowerTools along with an unmanaged solution that should be importable into any Dynamics 365 Environment. It also has a wiki with details on creating your own PowerTools solution.
+Head on over to <https://github.com/power-tools/hub>.  This repository hosts the source code for PowerTools along with an unmanaged solution that should be importable into any Dynamics 365 Environment. It also has a wiki with details on creating your own PowerTools solution.
 
 I am aware that what I am proposing is no small task and would require a lot of rework. I truly think this is necessary though and with the industrious nature of our community and some buy-in could develop into something truly great.  Thanks for your time and if you have any questions feel free to email me at <brendon.colburn@gmail.com>. Or add an issue to the hub if you've found something wrong already :grin:
