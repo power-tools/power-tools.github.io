@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 title: PowerTools
 description: Building PowerApps? Try PowerTools
+plugins:
+  - jemoji
