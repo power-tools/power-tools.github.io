@@ -6,7 +6,7 @@ The pillars of design/architecture are:
 - **PowerTools live on the Power Platform** - This means that there is no standalone desktop application and that extensions live within the model driven application as a combination of web resources, flows, actions, entities, attributes, plugin code, azure extensions, etc.
 - **PowerTools are modern-looking and fit the design of the new Unified Interface** - Dynamics 365, and most other products in the Microsoft 365 stack, have embraced the latest industry standards by utilizing frameworks such as React and Office-Fabric-UI. The benefits are self-evident after a bit of a learning curve.  PowerTools will follow suit with this initiative so that the customizations are seamless, fast to develop, and fast for the user.
 - **PowerTools are readily available and always improving** - By hosting PowerTools in GitHub it is expected and encouraged that customizers fork PowerTools with their own repositories. Their solutions can stand alone on top of the PowerTools framework.  Based on a review process solutions and enhancements from the community can be added via pull request into the master branch that is made publicly available. Since PowerTools is starting as an idea from Microsoft Employees there is a good chance that upon maturity it will have greater visibility in PowerApps by leveraging relationships within the product group.
-- **PowerTools are well documented**:page_facing_up: - As this grows it will be imperative that the documentation match the solution.
+- :page_facing_up:**PowerTools are well documented** - As this grows it will be imperative that the documentation match the solution.
 
 ## How is this different from XrmToolbox
 
